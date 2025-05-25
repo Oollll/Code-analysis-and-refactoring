@@ -1,0 +1,1 @@
+"""Task System package implementing Builder, Observer & Facade patterns."""
